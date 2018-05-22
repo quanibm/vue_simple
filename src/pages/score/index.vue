@@ -96,6 +96,7 @@
     background: url("../../files/images/4-1.jpg") no-repeat center center / 100% 100%;
   }
 </style>
+
 <style lang="less" scoped>
   .your_scores_container {
 

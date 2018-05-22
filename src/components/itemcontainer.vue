@@ -92,8 +92,14 @@ export default {
   props: ["fathercomponent"]
 };
 </script>
+<style>
+body{
+  background: url(../files/images/1-1.jpg) no-repeat center center / 100% 100%;
+}
+</style>
 
 <style lang="less" scoped>
+
 .top_tips {
   display: block;
   width: 6rem;
